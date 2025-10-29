@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("expense-tracket-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bca2ce9957133d513de2fbbac7c603c846a17ecc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+359b90c48d90623eac62505626dcc757b4798a98")]
 [assembly: System.Reflection.AssemblyProductAttribute("expense-tracket-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("expense-tracket-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

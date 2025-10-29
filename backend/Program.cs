@@ -40,7 +40,7 @@ app.UseCors("AllowAngular");
 
 app.UseAuthorization();
 
-app.UseStaticFiles(); // 👈 enables serving frontend
+app.UseStaticFiles(); // 👈 enables serving frontends
 app.UseRouting();
 app.UseAuthorization();
 
