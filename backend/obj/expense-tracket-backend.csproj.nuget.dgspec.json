@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Angular\\backend\\expense-tracket-backend.csproj": {}
+    "D:\\Projects\\expense-tracker\\backend\\expense-tracket-backend.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Angular\\backend\\expense-tracket-backend.csproj": {
+    "D:\\Projects\\expense-tracker\\backend\\expense-tracket-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Angular\\backend\\expense-tracket-backend.csproj",
+        "projectUniqueName": "D:\\Projects\\expense-tracker\\backend\\expense-tracket-backend.csproj",
         "projectName": "expense-tracket-backend",
-        "projectPath": "D:\\Projects\\Angular\\backend\\expense-tracket-backend.csproj",
+        "projectPath": "D:\\Projects\\expense-tracker\\backend\\expense-tracket-backend.csproj",
         "packagesPath": "C:\\Users\\Raju\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Angular\\backend\\obj\\",
+        "outputPath": "D:\\Projects\\expense-tracker\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raju\\AppData\\Roaming\\NuGet\\NuGet.Config",
