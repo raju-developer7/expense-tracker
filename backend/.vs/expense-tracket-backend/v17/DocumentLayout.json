@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Angular\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\angular\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\angular\\backend\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\angular\\backend\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\angular\\backend\\data\\expensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:data\\expensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\angular\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\angular\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Angular\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Angular\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T11:49:34.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Angular\\backend\\Data\\ExpenseDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ExpenseDbContext.cs",
+              "ToolTip": "D:\\Projects\\Angular\\backend\\Data\\ExpenseDbContext.cs",
+              "RelativeToolTip": "Data\\ExpenseDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:34:03.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\Projects\\Angular\\backend\\Expense.cs",
+              "RelativeDocumentMoniker": "Expense.cs",
+              "ToolTip": "D:\\Projects\\Angular\\backend\\Expense.cs",
+              "RelativeToolTip": "Expense.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:33:31.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "D:\\Projects\\Angular\\backend\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpenseController.cs",
+              "ToolTip": "D:\\Projects\\Angular\\backend\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "Controllers\\ExpenseController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T07:49:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Angular\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\Angular\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T07:46:18.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Angular\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Angular\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T07:39:53.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
