@@ -1,0 +1,3 @@
+backend/bin/
+*.json
+!backend/appsettings.json
