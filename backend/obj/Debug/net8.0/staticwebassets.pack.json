@@ -1,88 +1,24 @@
 {
   "Files": [
     {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\3rdpartylicenses.txt",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\3rdpartylicenses.txt"
+      "Id": "D:\\Projects\\expense-tracker\\backend\\wwwroot\\expenses\\index.html",
+      "PackagePath": "staticwebassets\\expenses\\index.html"
     },
     {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\browser\\expenses\\index.html",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\browser\\expenses\\index.html"
+      "Id": "D:\\Projects\\expense-tracker\\backend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\browser\\favicon.ico",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\browser\\favicon.ico"
+      "Id": "D:\\Projects\\expense-tracker\\backend\\wwwroot\\index.csr.html",
+      "PackagePath": "staticwebassets\\index.csr.html"
     },
     {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\browser\\index.csr.html",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\browser\\index.csr.html"
+      "Id": "D:\\Projects\\expense-tracker\\backend\\wwwroot\\main-CYTTMEYL.js",
+      "PackagePath": "staticwebassets\\main-CYTTMEYL.js"
     },
     {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\browser\\main-CYTTMEYL.js",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\browser\\main-CYTTMEYL.js"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\browser\\styles-DCUCBFO4.css",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\browser\\styles-DCUCBFO4.css"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\prerendered-routes.json",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\prerendered-routes.json"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\angular-app-engine-manifest.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\angular-app-engine-manifest.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\angular-app-manifest.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\angular-app-manifest.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\assets-chunks\\expenses_index_html.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\assets-chunks\\expenses_index_html.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\assets-chunks\\index_csr_html.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\assets-chunks\\index_csr_html.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\assets-chunks\\index_server_html.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\assets-chunks\\index_server_html.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\assets-chunks\\styles-DCUCBFO4_css.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\assets-chunks\\styles-DCUCBFO4_css.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\chunk-HKQTHSU5.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\chunk-HKQTHSU5.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\chunk-L2MVFUKD.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\chunk-L2MVFUKD.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\chunk-QN7HHIJH.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\chunk-QN7HHIJH.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\chunk-T55IDOPT.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\chunk-T55IDOPT.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\index.server.html",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\index.server.html"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\main.server.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\main.server.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\polyfills.server.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\polyfills.server.mjs"
-    },
-    {
-      "Id": "D:\\Projects\\Angular\\backend\\wwwroot\\dist\\expense-tracker\\server\\server.mjs",
-      "PackagePath": "staticwebassets\\dist\\expense-tracker\\server\\server.mjs"
+      "Id": "D:\\Projects\\expense-tracker\\backend\\wwwroot\\styles-DCUCBFO4.css",
+      "PackagePath": "staticwebassets\\styles-DCUCBFO4.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.expense-tracket-backend.props",
