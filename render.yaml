@@ -1,11 +1,10 @@
 services:
   - type: web
     name: expense-tracker-api
-    env: dotnet
+    runtime: docker
     rootDir: backend
-    buildCommand: "dotnet publish -c Release -o out"
-    startCommand: "dotnet out/ExpenseTrackerAPI.dll"
-    plan: free
+    dockerfilePath: backend/Dockerfile
     envVars:
-      - key: ConnectionStrings__DefaultConnection
-        sync: false
+      - key: ASPNETCORE_URLS
+        value: http://+:8080
+    plan: free
