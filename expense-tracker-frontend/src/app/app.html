@@ -1,0 +1,7 @@
+<!-- Global Loader -->
+<div *ngIf="loading$ | async" class="loader-overlay">
+  <div class="loader"></div>
+</div>
+
+<!-- Your actual app content -->
+<router-outlet></router-outlet>
