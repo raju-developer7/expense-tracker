@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: expense-tracker-api
+    env: dotnet
+    rootDir: backend
+    buildCommand: "dotnet publish -c Release -o out"
+    startCommand: "dotnet out/ExpenseTrackerAPI.dll"
+    plan: free
+    envVars:
+      - key: ConnectionStrings__DefaultConnection
+        sync: false
