@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\expense-tracker\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\expense-tracker\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\expense-tracker\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\expense-tracker\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\expense-tracker\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\expense-tracker\\backend\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\expense-tracker\\backend\\data\\expensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:data\\expensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|d:\\projects\\expense-tracker\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{966EE89B-DCEF-4636-A4F4-B2DE359EA8D0}|expense-tracket-backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,23 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Projects\\expense-tracker\\backend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "D:\\Projects\\expense-tracker\\backend\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABoAAAAdAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-29T11:49:34.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ExpenseDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\expense-tracker\\backend\\Data\\ExpenseDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ExpenseDbContext.cs",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Expense.cs",
               "DocumentMoniker": "D:\\Projects\\expense-tracker\\backend\\Expense.cs",
               "RelativeDocumentMoniker": "Expense.cs",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ExpenseController.cs",
               "DocumentMoniker": "D:\\Projects\\expense-tracker\\backend\\Controllers\\ExpenseController.cs",
               "RelativeDocumentMoniker": "Controllers\\ExpenseController.cs",
@@ -86,26 +86,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\expense-tracker\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Projects\\expense-tracker\\backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T07:46:18.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T07:46:18.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\expense-tracker\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\expense-tracker\\backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADIAAAAKAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T07:39:53.518Z",
               "EditorCaption": ""
